@@ -2,10 +2,9 @@
 title: EbookJapan
 date: 2018-01-14 23:13:49
 categories:
-- 日文
+- 日文書籍
 tags: 
-- 漫畫
-- 雜誌
+- 書籍
 - 日文
 - 付費
 ---

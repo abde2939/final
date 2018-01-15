@@ -2,9 +2,9 @@
 title: Mincomi
 date: 2018-01-14 23:38:34
 categories:
-- 日文
+- 日文書籍
 tags: 
-- 漫畫
+- 書籍
 - 日文
 - 免費
 ---
